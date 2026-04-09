@@ -4,7 +4,7 @@ Customer Churn Analysis using Python and Power BI to identify customer retention
 
 ## 🔗 Project Link
 
-(Add your GitHub repo link here)
+https://github.com/narmadhadevipalaniappan/customer-churn-analysis 
 
 ---
 
